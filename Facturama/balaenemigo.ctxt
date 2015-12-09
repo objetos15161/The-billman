@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=balaenemigo(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ muevete()
+comment3.params=
+comment3.target=void\ checkCollide()
+comment4.params=
+comment4.target=boolean\ atWorldEdge()
+comment5.params=
+comment5.target=void\ eliminar()
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Facturin()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ getTouchComp()
+comment3.params=
+comment3.target=void\ keyCheck()
+comment3.text=\r\n\ Key\ Check\r\n
+comment4.params=
+comment4.target=int\ getFacturinDir()
+comment5.params=
+comment5.target=void\ fall()
+comment5.text=\r\n\ Fall\r\n
+comment6.params=
+comment6.target=boolean\ onGround()
+comment6.text=\r\n\ On\ Ground\r\n
+comment7.params=
+comment7.target=void\ checkFall()
+comment7.text=\r\n\ Check\ Fall\r\n
+numComments=8
